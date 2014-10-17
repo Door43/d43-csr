@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csr:home|Door43 (csr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csr|d43-csr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csr/archive/master.zip|d43-csr.zip]]
+
+**Recent Changes**
+{{changes>ns = csr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csr|Ethnologue data]]
+
